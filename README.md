@@ -8,9 +8,9 @@
 <a href="#1.2">&nbsp;&nbsp;1.2: Required Objects</a><br>
 <a href="#1.3">&nbsp;&nbsp;1.3: Writing the Code</a><br>
 
-<h2 id="1">Project 1: Halloween Lights</h3>
-
 ___
+
+<h2 id="1">Project 1: Halloween Lights</h3>
 
 <h3 id="1.1">&nbsp;&nbsp;1.1: Initial Ideas: </h3>
 
