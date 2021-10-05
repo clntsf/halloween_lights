@@ -16,7 +16,7 @@ ___
 
 ## Project 1: Halloween Lights
 
-        <span id="1.1"></span>
+<span id="1.1"></span>
 
 ###    1.1: Initial Ideas:
 
