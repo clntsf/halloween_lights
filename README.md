@@ -6,7 +6,9 @@ Contained in this repository are several projects created over the span of Poetr
  - [Project 1: Halloween Lights](#project-1-halloween-lights)
     - [1.1: Initial Ideas](#11-initial-ideas)
     - [1.2: Required Objects](#12-required-objects)
-    - [1.3: Writing the Code](#13-writing-the-code)
+    - [1.3: Online Resources](#13-online-resources)
+    - [1.3: Writing the Code](#14-writing-the-code)
+
 ___
 
 ## Project 1: Halloween Lights
@@ -21,4 +23,8 @@ ___
 
 ###     1.2: Required Objects:
 
-###     1.3: Writing the Code
+###     1.3: Online Resources
+
+ - [microbit.org - Sound input](https://microbit.org/get-started/first-steps/sound-input/)
+
+###     1.4: Writing the Code
