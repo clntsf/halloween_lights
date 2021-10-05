@@ -8,4 +8,7 @@
 
 <h3 id="1">Project 1: Halloween Lights</h4>
 <h4 id="1.1">&nbsp;&nbsp;Initial Ideas: </h4>
-
+<span><small>
+1. A device to scare passers-by, record their voices, and then play them back to the next person<br>
+2. A device which detects vibrations and turns on a strip of appropriately-colored LED lights, maybe playing a sound<br></small>
+</span>
