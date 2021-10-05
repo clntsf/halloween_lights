@@ -25,6 +25,6 @@ ___
 
 ###     1.3: Online Resources
 
- - <a href="https://microbit.org/get-started/first-steps/sound-input/" target="_blank">microbit.org - Sound Input</a>
+<a href="https://microbit.org/get-started/first-steps/sound-input/" target="_blank">microbit.org - Sound Input</a>
 
 ###     1.4: Writing the Code
