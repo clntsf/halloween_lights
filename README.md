@@ -11,8 +11,10 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 1. A device to scare passers-by, record their voices,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;and then play them back to the next person</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+and then play them back to the next person</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 2. A device which detects vibrations and turns on a strip of appropriately-colored
-<br>      LED lights, maybe playing a sound<br>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+LED lights, maybe playing a sound<br>
 </p>
