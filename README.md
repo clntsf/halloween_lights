@@ -18,13 +18,13 @@ ___
 1. A device to scare passers-by, record their voices, and then play them back to the next person.</p>
     > _This idea was considered but put aside due to considerations of the complexity of the required setup and the necessity of a device capable of both recording and playing back sound._
 
-2. A device which detects vibrations and turns on a strip of appropriately-colored LED lights, maybe playing a pre-recorded sound clip.
+2. A device which detects vibrations/sounds and turns on a strip of appropriately-colored LED lights, maybe playing a pre-recorded sound clip.
     > _This idea was chosen due to its relatively low hardware requirements, its simple yet rewarding concept, and the general interest of the group._
 
 ###     1.2: Required Objects:
 
 ###     1.3: Online Resources
 
- - [microbit.org - Sound input](https://microbit.org/get-started/first-steps/sound-input/)
+ - <a href="https://microbit.org/get-started/first-steps/sound-input/" target="_blank">microbit.org - Sound Input</a>
 
 ###     1.4: Writing the Code
