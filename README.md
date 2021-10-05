@@ -10,16 +10,18 @@
 
 <h2 id="1">Project 1: Halloween Lights</h3>
 
+___
+
 <h3 id="1.1">&nbsp;&nbsp;1.1: Initial Ideas: </h3>
 
 1. A device to scare passers-by, record their voices, and then play them back to the next person.</p>
 
-    > *This idea was considered but put aside due to considerations of the complexity of the required setup and the necessity of a device capable of both recording and playing back sound.*
+    > _This idea was considered but put aside due to considerations of the complexity of the required setup and the necessity of a device capable of both recording and playing back sound._
 
 2. A device which detects vibrations and turns on a strip of appropriately-colored
 LED lights, maybe playing a sound.
 
-    > *This idea was chosen due to its relatively low hardware requirements, its simple yet rewarding concept, and the general interest of the group.*
+    > _This idea was chosen due to its relatively low hardware requirements, its simple yet rewarding concept, and the general interest of the group._
 
 ___
 
