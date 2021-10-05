@@ -23,8 +23,17 @@ ___
 
 ###     1.2: Required Objects:
 
+ - BBC Microbit
+    > _This will play the role of both sound input and output, as well as containing the script (written in python) to control the artefact's behaviour_
+ - LED Strip
+    > _For displaying colored lights when a sound is detected_
+ - Connecting board
+    > _used to connect the Microbit to the LED Strip, allowing it to send signals and interact with the LEDs on it_
+    
 ###     1.3: Online Resources
 
- - [microbit.org - Sound input](https://microbit.org/get-started/first-steps/sound-input/){:target="_blank"}
+ - [microbit.org - Python sound input documentation](https://microbit.org/get-started/user-guide/python/#microphone)
+ - [readthedocs - NeoPixel Documentation](https://microbit-micropython.readthedocs.io/en/v1.0.1/neopixel.html)
+ - [w3schools - HTML color picker](https://www.w3schools.com/colors/colors_picker.asp)
 
 ###     1.4: Writing the Code
