@@ -8,7 +8,7 @@ Contained in this repository are several projects created over the span of Poetr
  - (### Project 1: Halloween Lights)[#project-1:-halloween-lights]
     - [1.1: Initial Ideas](#1.1:-initial-ideas:)
     - [1.3: Writing the Code](#1.2:-required-objects:)
-    - [1.3: Writing the Code](#1.3-writing-the-code:)
+    - [1.3: Writing the Code](#1.3:-writing-the-code:)
 ___
 
 ## Project 1: Halloween Lights
