@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <h1>Poetry CS work</h1>
-  <p>Contained in this repository are several projects created over the span of Poetry 2021-2022 in Computer Science Class. A list of them and descriptions will be   included in this file.</p>
 
-  <h4><a href="#1">Project 1: Halloween Lights</a></h5>
-  <a href="#1.1"> 1.1: Initial Ideas</a>
 
-  <h3 id="1">Project 1: Halloween Lights</h4>
-  <h4 id="1.1" class="subheading">Initial Ideas: </h4>
-</body>
-</html>
+<h1>Poetry CS work</h1>
+<p>Contained in this repository are several projects created over the span of Poetry 2021-2022 in Computer Science Class. A list of them and descriptions will be   included in this file.</p>
+
+<h4><a href="#1">Project 1: Halloween Lights</a></h5>
+<a href="#1.1"> 1.1: Initial Ideas</a>
+
+<h3 id="1">Project 1: Halloween Lights</h4>
+<h4 id="1.1">&nbsp;&nbsp;Initial Ideas: </h4>
+
