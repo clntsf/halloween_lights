@@ -7,7 +7,7 @@ Contained in this repository are several projects created over the span of Poetr
     - [1.1: Initial Ideas](#11-initial-ideas)
     - [1.2: Required Objects](#12-required-objects)
     - [1.3: Online Resources](#13-online-resources)
-    - [1.3: Writing the Code](#14-writing-the-code)
+    - [1.4: Writing the Code](#14-writing-the-code)
 
 ___
 
