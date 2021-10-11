@@ -50,7 +50,9 @@ It should be noted that we revised our input to sound as opposed to vibration, a
 
     - The LED strip will run on a decay timer, meaning that when activated it will remain "on" so long as it is stimulated frequently enough. A summary of this behaviour is in [decay_timer.py](/halloween_lights/decay_timer.py).
 
-    - The LED strip (when activated) will change colors along a gradient between two shades of orange (#5A1E00 and #1E0A00) along a sine function (for a smooth and 'breathing' transition)
+    - The LED strip (when activated) will change colors along a gradient between two shades of orange (#5A1E00 and #1E0A00) along a sine function (for a smooth and 'breathing' transition).
+
+        > _An alternative approach to coloring the LEDs was originally preferred in which there was a single base color and the change was implemented by sampling from a sinewave fitted to a minimum and maximum scale factor and multiplying the RGB by that scale factor. For reasons mostly involving the microbit's low RGB fidelity this idea was scrapped, but a proof-of-concept [program](/halloween_lights/sineSampler.py) to produce a [.png file](/halloween_lights/materials/color_cycles.png) showing the resulting strip colors was left in this repository for posterity._
 
 3. We then split off and independently worked on our own sections, Faouzi and I consulting together on the operation of the LED strip using the neopixel module, and Javkhlan researching and developing a sound/vibration detection and output mechanism supported by the native components of the microbit.
 
