@@ -55,7 +55,7 @@ It should be noted that we revised our input to sound as opposed to vibration, a
 
     - The LED strip (when activated) will change colors along a gradient between two shades of orange (#5A1E00 and #1E0A00) along a sine function (for a smooth and 'breathing' transition).
 
-        > NOTE (Faouzi): _fThe color schematics used needed to radiate the theme of halloween. The colors we decided on using were colors associated with the holiday, and thus the color we decided on using was Orange. The colors selected would fluctuate from dark to light Orange._
+        > NOTE (Faouzi): _The color schematics used needed to radiate the theme of halloween. The colors we decided on using were colors associated with the holiday, and thus the color we decided on using was Orange. The colors selected would fluctuate from dark to light Orange._
 
         > _An alternative approach to coloring the LEDs was originally preferred in which there was a single base color and the change was implemented by sampling from a sinewave fitted to a minimum and maximum scale factor and multiplying the RGB by that scale factor. For reasons mostly involving the microbit's low RGB fidelity this idea was scrapped, but a proof-of-concept [program](/halloween_lights/sineSampler.py) which outputs an [image](/halloween_lights/materials/color_cycles.png) showing the resulting strip colors was left in this repository for posterity._
 
