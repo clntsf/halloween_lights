@@ -70,5 +70,7 @@ It should be noted that we revised our input to sound as opposed to vibration, a
  - In the process of designing an artefact certain limitations will be encountered based on the hardware and software used, and the responsibility of the developer is to overcome these limitations either by changing the components causing the limitations or by removing the affected features entirely. In some cases the former is possible, but in others, not.
 
  - When working in a group it is necessary to properly delegate roles between members in order to efficiently complete the task at hand and to maximise the productivity of each person. At the same time, strong communication must be maintained between members of the group in order to allow their individual parts to combine and function seamlessly
+ 
+ - As a group we were incredibly efficient with how we spent the delegated time to the project. We had the roles delegated within the first 10 minutes of the first class. We spent all given class time on our project and when there was any free time we worked on our python skills and codijng.
 
 ___
