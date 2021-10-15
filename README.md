@@ -71,6 +71,8 @@ It should be noted that we revised our input to sound as opposed to vibration, a
 
  - When working in a group it is necessary to properly delegate roles between members in order to efficiently complete the task at hand and to maximise the productivity of each person. At the same time, strong communication must be maintained between members of the group in order to allow their individual parts to combine and function seamlessly
  
- - As a group we were incredibly efficient with how we spent the delegated time to the project. We had the roles delegated within the first 10 minutes of the first class. We spent all given class time on our project and when there was any free time we worked on our python skills and codijng.
+ - As a group we were incredibly efficient with how we spent the delegated time to the project. We had the roles delegated within the first 10 minutes of the first class. We spent all given class time on our project and when there was any free time we worked on our python skills and coding.
+
+ - Although limited by our recources aavailable to us in this project, the effective use and excecution of availbe recources is essential to maximise productivity and minimise waste.
 
 ___
