@@ -73,6 +73,6 @@ It should be noted that we revised our input to sound as opposed to vibration, a
  
  - As a group we were incredibly efficient with how we spent the delegated time to the project. We had the roles delegated within the first 10 minutes of the first class. We spent all given class time on our project and when there was any free time we worked on our python skills and coding.
 
- - Although limited by the recources available to us in this project, the effective use and excecution of available recources is essential to maximise productivity and minimise waste.
+ - Although limited by the resources available to us in this project, the effective use and excecution of available recources is essential to maximise productivity and minimise waste.
 
 ___
