@@ -1,4 +1,5 @@
 # Halloween Lights ALT-4 Project
+## _Colin Simon-Fellowes, Javkhlan Kelly, Faouzi Kabalaoui_
 
 ## Table of Contents
 - [1.1: Initial Ideas](#11-initial-ideas)
