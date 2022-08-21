@@ -1,5 +1,5 @@
 # --- CONFIG --- #
-TPS = 50
+TPS = 60
 secondsToDecay = 1
 
 ticksLeft = 0
